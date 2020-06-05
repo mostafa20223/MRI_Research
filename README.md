@@ -28,4 +28,4 @@ Positron Emission Tomography/Magnetic Resonance Imaging PET/MRI combines metabol
 [Report-PDF](https://github.com/mostafa20223/MRI_Research/blob/master/Report/PDF/Nuclear%20Based%20MRI%20(NMR-PDF).pdf)
 
 ## Presentation
-[Report](https://github.com/mostafa20223/MRI_Research/blob/master/Presentation/NMR%20(Presentation).pptx
+[Report](https://github.com/mostafa20223/MRI_Research/blob/master/Presentation/NMR%20(Presentation).pptx)
