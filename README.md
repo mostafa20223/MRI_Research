@@ -31,4 +31,4 @@ Positron Emission Tomography/Magnetic Resonance Imaging PET/MRI combines metabol
 [Presentation](https://github.com/mostafa20223/MRI_Research/blob/master/Presentation/NMR%20(Presentation).pptx)
 
 ## Video
-[NMR Video](https://github.com/mostafa20223/MRI_Research/blob/master/Video/NMR%20(Video))
+[NMR Video](https://github.com/mostafa20223/MRI_Research/blob/master/Video/NMR%20(Video).rar)
